@@ -1,17 +1,24 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
-use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+
+title: Motivation # leave blank to exclude
+
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  I would like to record my study experience in this blog, including what I learned from workshops/trainings I attended, how I debugged the codes in R & Python, and other topics related to my research life. Hope this is a good way to nurture my writing habit, and push myself to write, think, and learn.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
-outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  I work mostly in R & RStudio, and really enjoy conducting end-to-end data analyses. Outside of work, I like playing the piano, hitting the gym, and practising Kendo.
+
+number_featured: 1  # pulling from mainSections in config.toml
+
+use_featured: false # if false, use most recent by date
+
+number_categories: 17 # set to zero to exclude
+
+
+# show_outro: true
+# outro: |
+#   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---
 
 ** index doesn't contain a body, just front matter above.

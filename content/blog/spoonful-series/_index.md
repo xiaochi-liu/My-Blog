@@ -9,6 +9,7 @@ cascade:
   series: A Spoonful of Hugo
   show_author_byline: true
   show_post_date: true
+  sidebar_left: false
   sidebar:
     show_sidebar_adunit: false
     text_contents_label: On this page
