@@ -1,4 +1,5 @@
-baseURL = "https://xiaochi.netlify.app/"
+baseURL = "http://xiaochi.rbind.io/"
+# baseURL = "https://xiaochi.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Personal website of Xiaochi Liu"
