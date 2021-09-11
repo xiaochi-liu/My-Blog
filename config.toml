@@ -1,4 +1,4 @@
-baseURL = "http://xiaochi.rbind.io/"
+baseURL = "https://xiaochi.rbind.io/"
 # baseURL = "https://xiaochi.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
