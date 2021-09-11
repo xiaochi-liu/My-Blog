@@ -1,7 +1,7 @@
 ---
 ## Configure page content in wide column
 
-title: Motivation # leave blank to exclude
+title: Motivation ## leave blank to exclude
 
 show_intro: true
 intro: |
@@ -9,7 +9,7 @@ intro: |
   
   I work mostly in R & RStudio, and really enjoy conducting end-to-end data analyses. Outside of work, I like playing the piano, hitting the gym, and practising Kendo.
 
-number_featured: 1  # pulling from mainSections in config.toml
+number_featured: 3  # pulling from mainSections in config.toml
 
 use_featured: false # if false, use most recent by date
 

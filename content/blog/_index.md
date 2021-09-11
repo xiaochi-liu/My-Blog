@@ -8,7 +8,10 @@ show_post_date: true
 show_post_thumbnail: true
 thumbnail_left: true
 
+# for listing page layout (list, list-sidebar, list-grid)
 layout: list
+
+# for list-sidebar layout
 sidebar:
   title: A Sidebar for Your Thoughts
   description: What should I write here
@@ -16,8 +19,6 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-
-
 
 # set up common front matter for all pages inside blog/
 cascade:

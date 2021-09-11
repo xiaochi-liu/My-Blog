@@ -12,9 +12,9 @@ show_social_links: true  # specify social accounts in site config
 link_list_label: "Research Interests"  # bookmarks, elsewhere, etc.
 link_list:
 - name: Machine Learning
-  url: https://en.wikipedia.org/wiki/Paris
-- name: GIS
-  url: https://en.wikipedia.org/wiki/Pastry
+  url: https://bradleyboehmke.github.io/HOML/
+- name: Geo-computation
+  url: https://geocompr.robinlovelace.net/index.html
 - name: Environmental & Public Health
   url: https://en.wikipedia.org/wiki/People
 

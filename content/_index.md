@@ -7,7 +7,7 @@ description: I am a data scientist. My research interest includes Machine Learni
 
 show_action_link: true
 action_label: Read More &rarr;
-action_link: /blog  # use relative links to other pages
+action_link: /about  # use relative links to other pages
 action_type: text   # text, button
 
 image_left: false

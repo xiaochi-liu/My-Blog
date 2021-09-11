@@ -3,7 +3,7 @@ title: Xiaochi Liu
 description: Xiaochi's personal blog
 
 show_header: false
-sidebar_left: true
+sidebar_left: false
 
 cascade:
   headless: true
