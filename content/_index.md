@@ -3,7 +3,7 @@ title: Xiaochi Liu
 subtitle: PhD Researcher @Macquarie University, Sydney
 show_social_links: true  # specify social accounts in site config
 
-description: I am a data scientist. My research interest includes Machine Learning, Geographical Information System, Spatial Statistic Analysis, and the application of novel modelling techniques in the research of Environmental & Public Health.
+description: I am a data scientist. My research interests include machine learning, explainable artificial intelligence, geo-computation, spatial statistics, mapping, etc. I like using R & Python and enjoy conducting end-to-end data analysis. Recently, I work on novel modelling techniques in Environmental & Public Health.
 
 show_action_link: true
 action_label: Read More &rarr;

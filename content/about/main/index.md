@@ -5,9 +5,7 @@ title: Motivation ## leave blank to exclude
 
 show_intro: true
 intro: |
-  I would like to record my study experience in this blog, including what I learned from workshops/trainings I attended, how I debugged the codes in R & Python, and other topics related to my research life. Hope this is a good way to nurture my writing habit, and push myself to write, think, and learn.
-  
-  I work mostly in R & RStudio, and really enjoy conducting end-to-end data analyses. Outside of work, I like playing the piano, hitting the gym, and practising Kendo.
+  I would like to record my learning experiences here, including the tips for programming, the notes for scientific writing, and the materials that are super inspiring to me.
 
 number_featured: 3  # pulling from mainSections in config.toml
 
