@@ -34,7 +34,7 @@ enableEmoji = true
   description = "Xiaochi Liu's blog"
   favicon = "/img/favicon.jpeg"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "paper", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -132,16 +132,22 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
+  [[menu.header]]
+    name = "Papers"
+    title = "Papers"
+    url = "/paper/"
+    weight = 3
+  [[menu.header]]
+    name = "Talks"
+    title = "Talks"
+    url = "/talk/"
+    weight = 4
   # [[menu.header]]
     # name = "Projects"
     # title = "Project Portfolio"
     # url = "/project/"
     # weight = 3
-  # [[menu.header]]
-    # name = "Talks"
-    # title = "Talks"
-    # url = "/talk/"
-    # weight = 4
+  
   # [[menu.header]]
     # name = "A collection"
     # title = "A collection"
@@ -170,6 +176,12 @@ enableEmoji = true
     url = "/contributors/"
     weight = 3
 
+
+# Permalinks
+#[permalinks]
+  #publication = "/talk/:title/"
+
+
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
@@ -192,3 +204,5 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+    
+
