@@ -3,7 +3,6 @@ title: Write Write Write
 date: '2021-09-11'
 author: Xiaochi Liu
 slug: []
-layout: single-sidebar
 categories:
   - Scientific Writing
 tags:
