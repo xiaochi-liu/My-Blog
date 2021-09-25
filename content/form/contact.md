@@ -4,10 +4,10 @@ description: This template has a **contact-us** form built right in. All you nee
   to do is add a valid recipient form-id to the front matter of this form page and
   you're ready to receive submissions.
 draft: false
-formspree_form_id: id-from-formspree
+formspree_form_id: xiaochi.liu@students.mq.edu.au
 layout: split-right
 name: Contact Us Form
-show_poweredby_formspree: true
+show_poweredby_formspree: false
 show_social_links: true
 submit_button_label: Send Message
 title: Contact

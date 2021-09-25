@@ -1,6 +1,5 @@
 ---
 title: Write Write Write
-excerpt: The writing process
 date: '2021-09-11'
 author: Xiaochi Liu
 slug: []
@@ -8,7 +7,25 @@ categories:
   - Scientific Writing
 tags:
   - Scientific Writing
+summary: "Ideas come from reading. Your writing starts with your reading."
 ---
+
+Ideas come from reading.
+Your writing starts with your reading.
+
+* Establish reading practice early
+
+* Read as if you are already an academic
+    - Don't take everything as "fact"
+    
+    - Read as if it is a discussion/dialogue with the authors
+    
+    - Your writing will be judged as you are academic
+
+* Read with purpose
+
+* Take purposeful notes
+
 
 
 ## Prewriting
@@ -38,7 +55,7 @@ Review the literature
 
 Outline or create bullet points
 
-Organise from general -> specific
+Organise from general --> specific
 
 Start writing:
 
@@ -48,9 +65,13 @@ Start writing:
 
 * Take the writing process one step at a time
     1. Separate into sections
+    
     2. Leave blanks for parts you are unsure about
+    
     3. Keep thinking of the overall purpose of the paper and its answer
+    
     4. Keep the momentum going: your first draft is not written in stone it WILL change!
+    
     5. Keep track of your references
 
 Get into the writing habit through regular writing
