@@ -1,15 +1,18 @@
 ---
 type: talk
 title: Recent Publications
+
 author: Xiaochi Liu
+show_author_byline: false
 
 # description: |
 #   This is a list for your talks, workshops, or other events with a time, date, and place.
 
-show_author_byline: false
-show_post_date: true
+
 show_post_thumbnail: true
-show_post_time: true
+show_post_date: false
+show_post_time: false
+
 
 layout: list
 sidebar:
@@ -25,11 +28,11 @@ sidebar:
 
 cascade:
   type: talk
-  author: The R Markdown Team @RStudio
   show_author_byline: true
-  show_comments: false
-  show_post_date: true
-  show_post_time: true
+  show_comments: true
+  show_post_date: false
+  show_post_time: false
+  layout: single
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent talks

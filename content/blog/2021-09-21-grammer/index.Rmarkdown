@@ -82,26 +82,26 @@ The number of the verb must agree with the number of the subject
 
 * Need to correctly identify the subject (not necessarily the first noun)
 
-> From this work _have come_ **improved antibiotic drugs**.
+  > From this work _have come_ **improved antibiotic drugs**.
 
-> **An evaluation** of the experimental results, as well as the clinical findings, _is_ described.
+  > **An evaluation** of the experimental results, as well as the clinical findings, _is_ described.
 
 * Not all plurals end with an "s" (data, formulae, radii)
 
-> These data are significant
+  > These data are significant
 
 
 * "Either...or..." & "Neither...nor...": the verb agrees with the nearest subject
 
-> Either the samples or **the apparatus** _was_ contaminated.
+  > Either the samples or **the apparatus** _was_ contaminated.
 
 * "Either of" & "Neither of": the verb is singular
 
-> Neither of the sample _is_ large
+  > Neither of the sample _is_ large
 
 * Do not omit helping verbs
 
-> The tissue _was_ minced and the samples _were_ incubated.
+  > The tissue _was_ minced and the samples _were_ incubated.
 
 
 
@@ -130,29 +130,28 @@ constructed a λZap library...," not "To address this possibility, a λZap libra
 
 * Check all words ending in "ing"
 
-> Using sarkosyl to induce nuclear run-on, the transcriptionally inactive b-globin gene in mature erythrocytes was demonstrated to harbor high levels of Pol II at 5' proximal regulatory regions. `r emo::ji("poop")`
-
-> Using sarkosyl to induce nuclear run-on, **we** demonstrated high levels of Pol II at 5' proximal regulatory regions in the transcriptionally inactive b-globin gene of mature erythrocytes. `r emo::ji("+1")`
+  > Using sarkosyl to induce nuclear run-on, the transcriptionally inactive b-globin gene in mature erythrocytes was demonstrated to harbor high levels of Pol II at 5' proximal regulatory regions. `r emo::ji("poop")`
+  >
+  > Using sarkosyl to induce nuclear run-on, **we** demonstrated high levels of Pol II at 5' proximal regulatory regions in the transcriptionally inactive b-globin gene of mature erythrocytes. `r emo::ji("+1")`
 
 * Check for changes between active and passive voice in the same sentence
 
-> Blood flow was allowed to return to baseline before proceeding with the next occlusion. `r emo::ji("poop")` 
-
-> We allowed blood flow to return to baseline before proceeding with the next occlusion. `r emo::ji("+1")`
-
-> Blood flow was allowed to return to baseline before the next occlusion was begun. `r emo::ji("+1")`
+  > Blood flow was allowed to return to baseline before proceeding with the next occlusion. `r emo::ji("poop")` 
+  >
+  > We allowed blood flow to return to baseline before proceeding with the next occlusion. `r emo::ji("+1")`
+  >
+  > Blood flow was allowed to return to baseline before the next occlusion was begun. `r emo::ji("+1")`
 
 
 Avoid very long subjects and a passive verb at the end of the sentence
-
-> Cannabidiol and THC, cannabinoid receptor agonists, as well as SR141 and SR144, cannabinoid receptor antagonists, were
-used. `r emo::ji("poop")`
-
 * Place subject and verb within the first 9 words of the sentence
 
 * Place any list of items at the end of the sentence
 
-> Four drugs were used: cannabidiol and THC, cannabinoid receptor agonists; and SR141 and SR144, cannabinoid receptor antagonists. `r emo::ji("+1")`
+  > Cannabidiol and THC, cannabinoid receptor agonists, as well as SR141 and SR144, cannabinoid receptor antagonists, were
+used. `r emo::ji("poop")`
+  >
+  > Four drugs were used: cannabidiol and THC, cannabinoid receptor agonists; and SR141 and SR144, cannabinoid receptor antagonists. `r emo::ji("+1")`
 
 
 
@@ -178,6 +177,11 @@ Choose passive voice for reason, not because you think it sounds scientific
 
 ## Verb tenses
 
+```{r echo=FALSE}
+knitr::include_graphics("verb tense.png")
+```
+
+
 Most common tenses in scientific writing
 
 * Present: We study
@@ -189,23 +193,21 @@ Most common tenses in scientific writing
 * Future: We will study
 
 
-
-
 **Present Tense**
 
 * General truths / scientific facts
 
-> Antibiotics resistance is causing a public health crisis.
+  > Antibiotics resistance is causing a public health crisis.
 
 * Summarise general scope of direction of your paper
 
-> Here we report the discovery of a new cell wall inhibitor.
+  > Here we report the discovery of a new cell wall inhibitor.
 
 * Actions / conditions occurring at time of speaking or writing
 
 * Assertions that continue to be true
 
-> The results support the idea that...
+  > The results support the idea that...
 
 
 
@@ -213,15 +215,15 @@ Most common tenses in scientific writing
 
 * Actions / conditions that occurred at a specific time and do not extend into the present
 
-> We weighed females and randomly assigned them to the experimental treatments.
+  > We weighed females and randomly assigned them to the experimental treatments.
 
-> Previous studies mentioned vibration of the seahorse's body.
+  > Previous studies mentioned vibration of the seahorse's body.
 
-> Widespread introduction of antibiotics in the 1940s transformed medicine.
+  > Widespread introduction of antibiotics in the 1940s transformed medicine.
 
 * For findings that apply only to a specific study /situation (are not accepted truths)
 
-> Participant 1 reported that exercise reduced her menopausal symptoms.
+  > Participant 1 reported that exercise reduced her menopausal symptoms.
 
 
 
@@ -230,13 +232,13 @@ Most common tenses in scientific writing
 
 * Actions / conditions begun in the past and either _completed recently in the past_ or _continuing into the present_
 
-> Advances over recent decades *have shown* that Newton's laws are inadequate at the atomic scale and at velocities comparable to the speed of light.
+  > Advances over recent decades *have shown* that Newton's laws are inadequate at the atomic scale and at velocities comparable to the speed of light.
 
 * In some cases the meaning of the verb indicates if the action is complete:
 
-> The experiment *has begun*. (The experiment begun in the past and continuing in to the present)
-
-> The experiment *has ended*. (The experiment begun in the past and completed recently in the past)
+  > The experiment *has begun*. (The experiment begun in the past and continuing in to the present)
+  >
+  > The experiment *has ended*. (The experiment begun in the past and completed recently in the past)
 
 
 
@@ -245,23 +247,23 @@ Most common tenses in scientific writing
 
 * Don't use present perfect when you specify a period of time that is over:
 
-> In 1988, Smith has reported ... `r emo::ji("poop")`
-
-> In 1988, Smith reported ... `r emo::ji("+1")`
+  > In 1988, Smith has reported ... `r emo::ji("poop")`
+  >
+  > In 1988, Smith reported ... `r emo::ji("+1")`
 
 * Don't use past simple when you specify a period of time that is not over:
 
-> Since 1988, researchers investigated the effects of ... `r emo::ji("poop")`
-
-> Since 1988, researchers have investigated the effects of ... `r emo::ji("+1")`
+  > Since 1988, researchers investigated the effects of ... `r emo::ji("poop")`
+  >
+  > Since 1988, researchers have investigated the effects of ... `r emo::ji("+1")`
 
 
 Examples
 
 > Unemployment leads to poverty. (always true; no beginning or end to it)
-
+>
 > Unemployment led to poverty. (true only in this study)
-
+>
 > Unemployment has led to poverty. (became true only recently and continues to be true)
 
 
@@ -380,9 +382,9 @@ Only use for indicating possessive
 The possessive of it is an exception to the rule
 * "it's" stands for *it is* or *it has*
 
-> It's been (it has been) a long time since I've seen you.
+  > It's been (it has been) a long time since I've seen you.
 
-> The dog wagged its tail.
+  > The dog wagged its tail.
 
 > A greenhouse is a glass building used to grow plants.
 A greenhouse has transparent glass that allows the sunlight to pass through but does not allow the heat inside to escape. The same effect occurs on the earth.

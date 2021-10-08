@@ -34,7 +34,7 @@ enableEmoji = true
   description = "Xiaochi Liu's blog"
   favicon = "/img/favicon.jpeg"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "paper", "talk"]
+  mainSections = ["blog", "publication", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -133,9 +133,9 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Papers"
-    title = "Papers"
-    url = "/paper/"
+    name = "Publications"
+    title = "Publications"
+    url = "/publication/"
     weight = 3
   [[menu.header]]
     name = "Talks"
