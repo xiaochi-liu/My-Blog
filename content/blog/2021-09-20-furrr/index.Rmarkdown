@@ -1,5 +1,5 @@
 ---
-title: Parallel Processing using Furrr
+title: Parallel Processing
 author: Xiaochi Liu
 date: '2021-09-20'
 slug: []
@@ -7,7 +7,7 @@ categories:
   - R programming
 tags:
   - R programming
-summary: The parallel version of `purrr` package
+summary: Use the parallel version of the purrr package - furrr
 ---
 
 Load the libraries

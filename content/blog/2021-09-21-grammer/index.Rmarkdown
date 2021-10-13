@@ -7,6 +7,7 @@ categories:
   - Scientific Writing
 tags:
   - Scientific Writing
+summary: The grammer for scientific writing
 ---
 
 

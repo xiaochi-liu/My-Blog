@@ -1,7 +1,7 @@
 ---
 title: A blog about data science
-description: Tips for R & Python Programming and Scientific Writing
-author: Xiaochi Liu
+description: Notes for R & Python Programming and Scientific Writing
+author: 
 
 show_author_byline: true
 show_post_date: true
@@ -13,9 +13,9 @@ layout: list
 
 # for list-sidebar layout
 sidebar:
-  title: The DS Notebook
+  title: Notebook
   description: Personal notes on being a data scientist.
-  author: Xiaochi Liu
+  # author: Xiaochi Liu
   show_sidebar_adunit: false
   # text_link_label: Subscribe via RSS
   # text_link_url: /index.xml

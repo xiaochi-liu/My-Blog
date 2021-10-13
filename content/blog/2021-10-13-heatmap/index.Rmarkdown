@@ -1,0 +1,65 @@
+---
+title: Heatmap
+author: Xiaochi Liu
+date: '2021-10-13'
+slug: []
+categories:
+  - R programming
+tags:
+  - R programming
+summary: Make a heatmap using ggplot2
+---
+
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(tidyquant)
+```
+
+
+```{r}
+sales_by_customer_tbl <- read_rds("sales_by_customer.rds")
+sales_by_customer_tbl
+```
+
+## Data Wrangle
+
+```{r}
+sales_by_customer_tbl %>% 
+  group_by(bikeshop_name) %>% 
+  mutate(prop = quantity / sum(quantity)) %>% 
+  ungroup() %>% 
+  select(- quantity) %>% 
+  # AVOID THIS ROOKIE MISTAKE - DON'T FORGET TO SORT BY TOP PRODUCT ----
+  pivot_wider(id_cols = bikeshop_name,
+              names_from = product_category,
+              values_from = prop) %>% 
+  arrange(- `Elite Road`) %>% 
+  mutate(bikeshop_name = fct_reorder(bikeshop_name, `Elite Road`)) %>% 
+  pivot_longer(cols = - bikeshop_name,
+               names_to = "product_category",
+               values_to = "prop") -> prop_sales_by_customer_tbl
+prop_sales_by_customer_tbl
+```
+
+## Heatmap Visualization
+
+```{r fig.width=7}
+prop_sales_by_customer_tbl %>% 
+  ggplot(aes(product_category, bikeshop_name)) +
+  # Geometirex
+  geom_tile(aes(fill = prop)) + 
+  geom_text(aes(label = scales::percent(prop, accuracy = 1)), size = 3) +
+  # Formatting
+  scale_fill_gradient(low = "white", high = palette_light()[1]) +
+  labs(title = "Heatmap of Customer Purchasing Habits",
+       subtitle = "Used to investigate Customer Similarity",
+       x = "Bike Type (Product Category)",
+       y = "Bikeshop (Customer)") +
+  theme_tq() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "none",
+        plot.title = element_text(face = "bold"),
+        plot.subtitle = element_text(face = "bold.italic"))
+```
+
