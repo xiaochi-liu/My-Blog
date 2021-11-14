@@ -1,0 +1,657 @@
+---
+title: Paragraph Structure
+author: Xiaochi Liu
+date: '2021-11-13'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - Scientific Writing
+summary: Organisation of ideas. Clear relationship between ideas. Emphasis on important ideas.
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+Paragraph length
+
+-   Between 7 and 14 lines
+
+-   Between 3 and 6/7 sentences
+
+-   Can be shorter/longer
+
+-   Too many short paragraphs -- writing too bitty
+
+-   Too many long paragraphs -- heavy and difficult to follow
+
+## Paragraph organisation
+
+Paragraph = a number of sentences on **a single topic**
+
+Paragraph goal = get a message across, make the story behind the message clear.
+
+### Topic Sentence
+
+Topic of paragraph
+
+-   What the paragraph is about
+
+-   Use a key term
+
+Message of the paragraph
+
+-   The point the paragraph is making
+
+-   Use a verb + subject (+ completer)
+
+One topic & message only
+
+> Pulmonary nerve endings (Topic of the paragraph) were relatively insensitive to pheny diguanide (Message of the paragraph)
+
+### Supporting sentences
+
+Include:
+
+-   definition
+
+-   evidence / reason
+
+-   explanation: cause
+
+-   explanation: effect
+
+-   classification
+
+-   specification
+
+-   composition
+
+-   description
+
+-   example
+
+-   comment / opinion
+
+> There are three different theories put forward for the slow relaxation of catch muscles of molluscs.
+> One theory holds that ... .
+> In this theory ... .
+> The second theory holds that ... .
+> Since the ... .
+> A third theory, that fits with our findings, ... .
+
+Order of supporting sentences:
+
+-   Least to most important
+
+-   Most to least important
+
+-   Announced order
+
+-   Pro-Con, Pro, Con
+
+-   Funnel
+
+-   Chronological order
+
+-   Problem-Solution, Solution-Problem
+
+> The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+> (**Definition**) A drought is said to have begun when the rainfall over a period of 3 months lies below the 10 th percentile.
+
+> The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+> (**Example**) The Jebel Ali facility in the United Arab Emirates shows how the process can operate safely and economically.
+
+> The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+> (**Classification**) Droughts can be divided into two types: a serious drought, when rainfall lies below the 10th percentile for a given period, and a severe drought, when rainfall lies below the 5th percentile.
+
+> The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+> (**Explanation: cause**) While building costs may be high, the running costs, based on the use of renewable energy will be low.
+
+> The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+> (**Explanation: effect**) It is for this reason that the government is moving quickly to put out tenders for the project.
+
+> The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+> (**Evidence**) A recent engineer's report indicated that up to 25% of Sydney's drinking water could be provided by such a plant.
+
+> The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+> (**Description**) Drought is an increasingly common phenomenon in Australia and has caused great harm to Australia's economy in the past.
+
+How to choose the organisation pattern?
+How to choose the function of the sentence?
+It depends:
+
+-   What the text and paragraph are about (topic, focus, paragraph)
+
+-   What information is presented in the previous sentences
+
+-   Only one of the many possible ways of staging information in a sentence may make the meaning clear in the paragraph
+
+### All steps in the logic must be presented
+
+Steps are often missed out accidental
+
+-   Writer is very familiar with the topic
+
+How can we avoid missing out steps in our writing?
+
+-   Read your writing again after a few weeks
+
+-   Ask someone outside your field to read your writing
+
+## Paragraph Continuity
+
+Methods:
+
+-   Repeating key terms
+
+-   Using transitions
+
+-   Keeping consistent order
+
+-   Keeping a consistent point of view
+
+-   Putting parallel ideas in parallel form
+
+-   Signalling the subtopics of a paragraph
+
+-   Logical staging /sequencing
+
+### Repeating key terms
+
+Technical terms (G protein, mitogenesis ...)
+
+Non technical terms (increase, function ...)
+
+> As expected, **serum glucose** decreased to about 800 mg/dl by the sixth hour of insulin infusion.
+> To allow for osmotic equilibrium, we stabilized **serum glucose** at this level by adding to the fluid infusion an amount of glucose equivalent to the **net loss of total body glucose**.
+> We estimated **net loss of total body glucose** as follows:...
+
+> Polyphagous tephritid fruit flies often have complex mating systems in which aggregated males, **leks**, occupy individual territories from which they emit chemical, acoustic and visual signals.
+> Females arrive at these **leks** to choose mates, and the variance in male reproductive success is typically high.
+
+For clarity, accuracy, and avoiding "noise".
+Remember:
+
+-   You (author) will notice repetition of word.
+    Most readers won't
+
+-   Main goal: get your message across and make a clear story
+
+-   Makes the job of reading easier
+
+
+
+
+
+### Signalling
+
+The elaboration of topic(s) in the body of a paragraphs can be:
+
+-   **inferred**
+
+    > The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+    > Even severe droughts such as those experienced in 1991 and 2003 will no longer pose a threat to Sydney's supply of drinking water.
+
+-   **explicitly signalled**
+
+    > The desalination plant will provide a relatively cost effective alternative source for Sydney's water supply in periods of drought.
+    > **In particular**, even severe droughts such as those experienced in 1991 and 2003 will no longer pose a threat to Sydney's supply of drinking water.
+
+Signalling
+
+-   Strengthen written cohesion
+
+-   Use signposts to make it easier for readers to follow your ideas
+
+-   Carry over a thought between sentences / paragraphs
+
+-   Signposts = transition signals
+
+-   Several types of transition signals
+
+-   Act like bridges between parts of your writing
+
+-   No abrupt jumps or breaks between your ideas
+
+| Functional Groups             | Examples                                                                              |
+|-------------------------------|---------------------------------------------------------------------------------------|
+| Addition & Replacement        | in addition, furthermore, also, additionally, another, further, moreover, besides, or |
+| Comparison & Contrast         | conversely, while, similarly, whereas, unlike, however, alternatively, yet            |
+| Exemplification & Restatement | for instance, in other words, notably, to demonstrate, specifically, thus             |
+| Cause & Condition             | consequently, therefore, thus, hence, accordingly, because, as a result               |
+| Time & Place                  | then, next, finally, initially, meanwhile, before, after, prior to, immediately       |
+
+Transition signals have different functions and have different grammatical use:
+
+* different parts of speech (phrase, noun, adjective, verb)
+
+* co-ordinating conjunction (for, and, nor, but, or, yet, so)
+    - Join parts of sentence: independent clauses / words
+    
+    - Independent clauses need "," before the coordinating conjunction
+
+      > We all know smoking is bad for our health, **but** many people smoke anyway.
+
+      > The samples was contaminated, **so** the results were invalid.*
+
+      > He dropped the sample **and** contaminated it.*
+    
+* sentence connector (furthermore, in addition, moreover, however, nevertheless, as a result, consequently, hence, thus, in other words, that is, in contrast, conversely, for example, for instance, in fact)
+    - Introduce a complete sentence or independent clause
+
+    - Can appear at the beginning or in the middle
+
+    - Need to use commas / semicolons
+    
+      > **For example**, the Baltic Sea in Northern Europe is only one fourth as saline as the Rea Sea in the Middle East.
+    
+      > In warm climate zones, water evaporates rapidly; **therefore**, its net profit declined.
+
+* subordinator (even though, despite the fact, because, since, while, whereas)
+    - Introduce a dependent clause (DC), which is joined to an independent clause (IC) to form a complete sentence
+
+    - Use a comma if the DC comes before the IC; do not use a comma if the DC comes after the IC.
+
+      > Although smoking is linked with cancer, many people smoke.
+
+      > Many people smoke although it's linked with cancer.
+    
+* transition phrases
+    - No adequate transition word
+    
+    - Prepositional phrase
+        - In this theory,
+        - For this assessment,
+        - As a result of this reaction,
+    
+    - Infinitive phrase
+        - To obtain each pressure point,
+        - To understand the source,
+    
+    - Transition clauses: uses a subject and verb to indicate the relationship
+    
+      > One approach used to maintain “repeat key word” has been ...
+    
+      > Evidence for stimulation of “repeat key word” is that...
+
+    - Transition signal: exemplifies
+
+      > The Jebel Ali facility in the United Arab Emirates exemplifies how this process can operate safely and economically.
+
+    - Transition signal: an example
+
+      > The Jebel Ali facility in the United Arab Emirates is an example how this process can operate safely and economically.
+
+    - Transition signal: for instance
+    
+      > For instance, the Jebel Ali facility in the United Arab Emirates shows how this process can operate safely and economically.
+
+
+
+
+
+
+
+
+### Keeping consistent order
+
+Items in topic sentence are A, B, C
+
+Supporting sentences should explain first A, then B, and last C.
+* should include all items
+
+* should not add other items
+
+Repeat key terms exactly
+
+
+
+
+
+### Keeping a consistent point of view
+
+**Topics of two or more sentences are the same** --> **The subjects of two or more sentences should be the same**
+* same term
+
+* same category of term
+
+> Olsen et al. (22) concluded that **series interaction** was more important than direct interaction. We found that **direct interaction** was about one half as important as series interaction. 💩
+>
+> Olsen et al. (22) concluded that **direct interaction** was less important than series interaction. Similarly, we found that **direct interaction** was about one half as important as series interaction. 👍
+
+> **Mortality** in this series of patients was 90%. Generally, **survival** in clinical series has been less than 20%. The only exception to this is the experience of Boley (2), who reported a mortality of 46%. 💩
+>
+> **Mortality** in this series of patients was 90%. Generally, **mortality** in clinical series has been greater than 80%. The only exception is the mortality of 46% reported by Boley (2). 👍
+
+
+
+
+
+
+
+### Putting parallel ideas in parallel form
+
+> X increased but Y decreased
+
+Grammatical form of each part of the sentence must be the same
+* the subject, the verb, and the completer
+
+* to present contrasting ideas
+
+* to highlight similarities
+
+* keep the words the same for the same ideas, so all the differences stand out
+
+* Only the sentences that express parallel ideas are in parallel form
+
+> The log10 function eliminated some waves. The factor that determined whether a wave was eliminated or amplified was the divisor. **When the divisor was greater than the absolute value of the peak of a wave**, the wave was eliminated. **When the divisor was less than the absolute value of the peak wave**, the wave was amplified.
+
+> To determine whether cholinergic or adrenergic nerves mediate secretion of fluids from the glands, we did experiments on ferret glands. **We induced secretion by stimulating** the tissue both electrically and pharmacologically. **We inhibited secretion by adding** XXXX to the bathing solution.
+
+
+
+
+
+
+
+
+
+### Signalling the subtopics of a paragraph
+
+Signalling a new topic
+* new paragraph
+
+* topic sentence
+
+Signalling a new subtopic
+* new paragraph
+
+* Using a key term at the beginning of the sentence
+
+The key term can be **the subject of the sentence**
+
+> Samples of **inspired**, **end-tidal**, and **mixed-expired** gases were taken during the 2 h wash in period. **Inspired** gas samples were collected proximal to the non-rebreathing valve. **End-tidal** gas samples...
+
+The key term can be **the object in a transition phrase**
+
+> Propranolol had variable effects in regional blood flow. **In the cerebellum**, propranolol did not significantly alter the increase in blood flow. However, **in other organs**, such as the gut and kidneys, propranolol caused a severe decrease in blood flow.
+
+Remember: 
+* Parallel ideas should be in parallel form
+
+* Signals of subtopics should also be parallel
+
+* Topic sentences don't always name subtopics --> need to use signals
+
+
+
+
+
+
+
+
+
+
+### Logical staging /sequencing
+
+**Theme** of a sentence
+
+* known information
+
+* information that has been previously mentioned
+
+* links sentences together
+
+* clearer writing
+
+* more cohesive
+
+**Rheme** of a sentence
+
+* new information
+
+To recognise the Theme & the Rheme
+* Recognise the **Finite Verb**
+    - A verb with tense and person
+    
+    - Can be a single words or a verb group
+
+* Recognise the **Subject** of the finite verb
+    - Typically a Noun Group
+    
+    - Can be a single word or a long complex groups of words
+
+In English grammar, a **finite verb** is a form of a verb that 
+* shows agreement with a subject
+
+* is marked for tense.
+
+* if there is just one verb in a sentence, that verb is finite.
+
+* a finite verb can stand by itself in a sentence
+
+* sometimes called **main verbs** or **tensed verbs**
+
+* a finite clause is a word group that contains a finite verb form as its central element.
+
+The reason finite verbs are so important is their unique ability to act as the sentence-root.
+They can be used as the only verb in the sentence, whereas all the others have to depend on some other word, so finite verbs really stand out.
+
+Non-finite verbs are not marked for tense and do not show agreement with a subject.
+
+The main difference between finite verbs and non-finite verbs is that the former can act as the root of an independent clause, or a full sentence, while the latter cannot.
+
+> **Recent publications** _contain many new ideas_.
+
+> **Many new ideas** _are in recent publications_.
+
+* You choose what should be the theme and what should be the rheme
+
+* Depends on the purpose, topic and focus of the paragraph
+
+* Depends on requirement of putting “given” information first
+
+> Measurement **is complicated** by the presence of particles.
+>
+> The measurement of air temperature and humidity **is complicated** by the presence of particles.
+>
+> The measurement of air temperature and humidity by means of a thermocouple placed directly in the drying chamber **is complicated** by the presence of particles.
+
+All three Themes about 'measurement' are Subject of the finite verb, "is complicated".
+
+> Quantitative research **will always be** the dominant paradigm in this department.
+
+> In all experiments, there **is** concern about leaving a margin of error.
+
+> Whatever the site of the data collection, researchers **faced** the same problem.
+
+> The three major factors considered by researchers on all projects **were decided on** by the main supervisor.
+
+> Initially, all the various shades of meaning possible in the respondents’ answers **were taken** into account.
+
+Given information comes from the previous “New” and so the main point is built upon.
+
+
+```r
+knitr::include_graphics("Old to New.png")
+```
+
+<img src="Old to New.png" width="696" />
+
+
+
+```r
+knitr::include_graphics("Example.png")
+```
+
+<img src="Example.png" width="873" />
+
+
+```r
+knitr::include_graphics("Example Structure.png")
+```
+
+<img src="Example Structure.png" width="873" />
+
+
+
+#### Rheme --> Theme
+
+Given information from previous rheme
+
+Main point is built upon
+
+
+```r
+knitr::include_graphics("Rheme to Theme.png")
+```
+
+<img src="Rheme to Theme.png" width="374" />
+
+> Regular exercise helps prevent and treat numerous diseases. These diseases include diabetes, coronary heart disease and stroke.
+
+> The desalination plant will provide a relatively cost effect alternative source for Sydney's water supply in **periods of drought**.
+**Such droughts** have occurred regularly throughout Australia's history and appear to be becoming **more severe**.
+**The severity** will only increase as **Australia's rainfall becomes less reliable** as a result of climate change.
+Finally, **the erratic rainfall patterns** render proposals for stormwater harvesting projects unfeasible.
+In the absence of any other realistic alternatives, the construction of a new desalination plant should commence without delay.
+
+
+
+
+#### Rheme 1 --> Theme 2,3,4
+
+Common in introductory paragraphs of a text
+
+
+```r
+knitr::include_graphics("Rheme 1 to Theme 2 3 4.png")
+```
+
+<img src="Rheme 1 to Theme 2 3 4.png" width="364" />
+
+> Electric cars have three major advantages over traditional vehicles: **cost**, **reliability** and **eco-friendliness**.
+First, **the low overall cost** of owning an electric car is due to the extremely cheap running costs, with "fuel" being supplied at off peak rates.
+Second, **breakdowns** are rare as electric motors have fewer moving parts and, consequently, a longer lifespan.
+Finally, **the low level of pollution** involved in running electric cars reduces the environmental cost to society.
+
+
+
+
+#### Theme --> Theme
+
+Given information from previous theme
+
+Topic focus is maintained
+
+
+```r
+knitr::include_graphics("Theme to Theme.png")
+```
+
+<img src="Theme to Theme.png" width="371" />
+
+
+> Regular exercise helps prevent and treat numerous diseases. Exercise is also often inexpensive, accessible and largely acceptable to patients.
+
+> **The desalination plant** will provide a relatively cost effect alternative source for Sydney's water supply in periods of drought.
+**Its** construction will overcome the crippling effects of severe droughts which have occurred regularly throughout Australia's history.
+**The plant** will also help to compensate for the increasingly unreliable rainfall in Australia as a result of climate change.
+Finally, **the plant** is required to cater to the inevitable increase in demand for water as Sydney's population grows.
+**The construction of a new desalination plant** should commence without delay.
+
+
+
+
+#### Multiple Theme -> Themes
+
+One idea in a Theme is developed or progressed across Themes
+
+
+```r
+knitr::include_graphics("Multiple Theme to Themes.png")
+```
+
+<img src="Multiple Theme to Themes.png" width="371" />
+
+> **In the earliest times**, _people_ carved or painted messages on rocks.
+**Later on**, _people_ wrote on pieces of leather rolled into scrolls.
+**During the Middle Ages**, _heavy paper called parchment_ was used for writing, and books were laboriously copied by hand.
+**Then, in the middle of the 15th century**, _with the invention of the printing press_, the birth of the modern printing industry was possible.
+**Now**, _the advent of computers_ is rapidly revolutionising the process of communication.
+
+
+
+#### Combination
+
+Rheme --> Theme
+
+Rheme 1 --> Themes 2, 3, 4
+
+Theme --> Theme
+
+Multiple Theme --> Theme
+
+Various combinations of information structure patterns are possible, and the number of possible combinations is limitless.
+
+
+
+
+
+
+
+
+
+```r
+knitr::include_graphics("logic sequence combination.png")
+```
+
+<img src="logic sequence combination.png" width="908" />
+
+
+
+> Clay particles have surface areas which are many orders of magnitude greater than silt or sand sized particles.
+The ability of soil to shrink when dried is controlled by the interactions of these clay surfaces with water and exchangeable cations. 💩
+>
+> Clay particles have **surface areas** which are many orders of magnitude greater than silt or sand sized particles.
+The interaction of these clay **surfaces** with water and exchangeable cations control the ability of soils to shrink when dried. 👍
+
+
+
+> There are 188,000 lakes in Finland.
+Many people are now very concerned about them.
+Chemicals have polluted most of the larger lakes.
+A Finnish government report recently confirmed this. 💩
+>
+> There are 188,000 **lakes** in Finland.
+**They** have caused a lot of concern for many people.
+**Most of the larger lakes** have been polluted by chemicals.
+**This** has been confirmed by a Finnish government report. 👍
+
+Passive voice
+* advice often given to avoid passive: be more direct & less wordy
+
+* **However, it can be used to improve cohesion and coherence: information flow (old information -> new information)**
+
+
+> The biological clock is a master clock that dictates the day night cycle of activity known as circadian rhythm.
+The suprachiasmic nucleus (SCN) was identified as the location of the clock in the brains of humans and animals.
+Specialized clock genes are activated and deactivated mainly by a pair of proteins, one of which turns on a group of genes and the other of which turns off a key gene in a feedback loop that has a 24 hour rhythm (specifically a 24 hour and 18 minute rhythm). 💩
+>
+> **The biological clock** is a master clock that dictates the day-night cycle of activity known as circadian rhythm.
+**The clock** was identified in a part of the brain called the **suprachiasmic nucleus (SCN)**.
+Within individual **SCN cells**, specialised clock genes are activated and deactivated mainly by a pair of proteins, one of which turns on a group of genes and the other of which turns off a key gene in a feedback loop that has a 24-hour rhythm (specifically a 24-hour and 18 minute rhythm). 👍
+
+
+Conclusion: Theme & Rheme
+* Improves continuity
+
+* Emphasise important information
+    - Place this information in the "stress position"
+    
+    - **"Stress position" is at the end of the sentence**
+    
+    - **The start of the sentence prepares the reader for the important information**
+    
+    - Establishes links between sentences
