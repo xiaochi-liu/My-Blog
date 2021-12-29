@@ -1,0 +1,128 @@
+---
+title: 'Clearer sentences & paragraphs:'
+author: Xiaochi Liu
+date: '2021-12-29'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - Scientific Writing
+summary: Make your writing flow better
+---
+
+Clear writing is not something that you just automatically get through years of practice.
+It's a set of skills that you apply in your drafting and in your editing processes.
+The culture of English academic writing is that the writer should work hard so that the reader can understand easily.
+
+Planer & Drafter
+* Planner: thinking first, then draft, working on clarity while drafting
+
+* Drafter: writing is a bit of thinking, write early, write lots of drafts, don't work on clarity until editing
+
+
+Predictability & Transparency
+* The reader wants/expects/feels comfortable when they have predictability and transparency
+
+* **Predictability**: where are we going? I'm not blindly going with you, what's coming up?
+
+* **Transparency**: where are we? why am I here and how I got here? what's this connected to?
+
+* People should know where they have come from and where they are going.
+
+* There should be nothing surprising.
+
+
+## Tool-box for charity
+
+Levels of the text which you can adjust for clarity
+
+### Context
+
+Who is the audience
+
+Make readers' life easier
+
+
+### Global structure
+
+Major parts/chapters/sections
+
+
+
+Differences between disciplines
+
+Key parts of the structure for clarity
+* Table of contents
+
+* Introduction & mini-introductions
+    1. Background or context
+    
+    2. Topic (purpose/aims/topic/research questions/hypothesis)
+    
+    3. Outline: give reader predictability & transparency
+
+* Section headings & sub-headings
+
+
+
+### Paragraph structure
+
+3-part structure:
+* Topic sentences (one or more sentences)
+    - topic
+    - outline (optional) (a list, a plural or an abstract/general term)
+
+> It can be argued that *a Western political system has failed in Pakistan* (topic) for *two major reasons* (outline).
+
+* Body
+
+> The first is that none of the leaders of the government, which has been based on a Western democratic constitutional system, has attempted to rule the country in a democratic way. Instead they have instituted autocratic rule. The second reason has been the lack of strong political parties. As a result, when constitutional crises have arisen there has not been sufficient popular support behind any one party to overcome the situation.
+
+* Conclusion (option)
+
+> While it is necessary to recognize that these are not the only factors determining the failure of a democratic system, they stand as the most prominent reasons.
+
+
+
+### Links between sentences
+
+Chain of information, the flow of information, the connections of information
+
+2 parts to the chain link in the sentence
+* Theme: starting point
+
+* Rheme: forward direction
+
+> **Sociological research** *concentrates on social structures and norms*.
+
+> **Sociological research on secondary school attrition** *concentrates on social structures
+and norms*.
+
+> **The main complaint about the sociological perspective on secondary school attrition** is that it concentrates on social structures and norms.
+
+Short-distance link: new theme link back to the previous rheme.
+
+> Internet use has been found to be the fastest growing addictive behaviour in the West today.
+**Some indicators of addiction** are not sleeping, missing meals and _avoiding face-to-face contact with friends and family_.
+**The lack of social interaction** can lead to serious _problems_ for young addicts.
+**One of these problems** is difficulty in developing intimate personal relationships and another is finding and holding down a job.
+
+Long-distance link: each theme link back to the topic sentence
+
+> There are three main indicators of addictive behaviour amongst Internet users: _not sleeping_, _missing meals_ and _avoiding contact with friends and family_.
+**Sleep deprivation** causes a range of health problem, leading to both physical and cognitive ill effects.
+**Undernourishment** similarly leads to health problems.
+**The lack of social contact** may be the most serious as it can lead to an inability to form personal relationships and in finding and holding a job.
+
+
+Checklist for clear sentence links
+* Old information before new information
+
+* Long-distance links to show the structure of ideas
+
+* Short-distance links as 'sticky tape'
+
+
+### Word choices
+
+### Formatting & layout
