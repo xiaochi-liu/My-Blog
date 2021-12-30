@@ -17,7 +17,7 @@ links:
   name: Official Site
   url: https://pubs.acs.org/doi/10.1021/acs.est.1c01097
 
-# categories:
+# categories: 
 # - workshop
 # event: rstudio::global(2021)
 # event_url: https://global.rstudio.com
