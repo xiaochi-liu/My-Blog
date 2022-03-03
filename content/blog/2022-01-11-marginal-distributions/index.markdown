@@ -7,7 +7,7 @@ categories:
   - R programming
 tags:
   - R programming
-summary: Strategies for writing critically
+summary: An R package to show marginal distributions
 ---
 
 **Marginal Distribution (Density) plots** are a way to extend your numeric data with side plots that highlight the density (histogram or boxplots work too).
