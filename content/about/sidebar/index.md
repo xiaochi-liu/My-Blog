@@ -15,7 +15,7 @@ link_list:
   url: https://r4ds.had.co.nz/
   
 - name: Machine Learning
-  url: https://link.springer.com/book/10.1007/978-1-4614-7138-7
+  url: https://bradleyboehmke.github.io/HOML/
   
 - name: Explainable Artificial Intelligence
   url: https://ema.drwhy.ai/
