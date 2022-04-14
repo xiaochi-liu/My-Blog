@@ -1,0 +1,76 @@
+---
+title: Automatic Exploratory Data Analysis
+author: Xiaochi Liu
+date: '2022-04-14'
+slug: []
+categories:
+  - R programming
+tags:
+  - Scientific Writing
+summary: Create an EDA report in one line of code
+---
+
+```{r setup}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(DataExplorer)
+library(tidyverse)
+```
+
+```{r}
+gss_cat
+```
+
+## Create the Automatic EDA Report
+
+```{r eval=FALSE, include=FALSE}
+gss_cat %>% 
+  create_report(
+    output_file = "gss_survey_data_profile_report",
+    y = "rincome",
+    report_title = "EDA Report - GSS Demographic Survey"
+  )
+```
+
+
+## Data Introduction
+
+```{r}
+gss_cat %>% introduce()
+```
+
+```{r}
+gss_cat %>% plot_intro()
+```
+
+## Missing Values
+
+```{r}
+gss_cat %>% plot_missing()
+```
+
+```{r}
+gss_cat %>% profile_missing()
+```
+
+## Continuous Features
+
+```{r}
+gss_cat %>% plot_density()
+```
+
+```{r}
+gss_cat %>% plot_histogram()
+```
+
+## Categorical Features
+
+```{r}
+gss_cat %>% plot_bar()
+```
+
+## Relationships
+
+```{r}
+gss_cat %>% plot_correlation(maxcat = 15)
+```
+
