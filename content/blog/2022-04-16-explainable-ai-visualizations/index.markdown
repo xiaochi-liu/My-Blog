@@ -7,7 +7,7 @@ categories:
   - R programming
 tags:
   - R programming
-summary: Machine learning is great, until you have to explain it.
+summary: Machine learning is great, until it is explained.
 ---
 
 
@@ -74,7 +74,7 @@ fit_xgboost
 ```
 ## parsnip model object
 ## 
-## Fit time:  42ms 
+## Fit time:  34ms 
 ## ##### xgb.Booster
 ## raw: 33.8 Kb 
 ## call:
@@ -154,10 +154,10 @@ This opens up the `modelStudio` app - an interactive tool for exploring predicti
 
 
 ```r
-knitr::include_graphics("feature importance.png")
+knitr::include_graphics("importance.png")
 ```
 
-<img src="feature importance.png" width="406" />
+<img src="importance.png" width="406" />
 
 The feature importance plot is a global representation.
 This means that it looks all of your observations and tells you which features (columns that help you predict) have in-general the most predictive value for your model.

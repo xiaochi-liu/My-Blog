@@ -7,7 +7,7 @@ categories:
   - R programming
 tags:
   - R programming
-summary: Machine learning is great, until you have to explain it.
+summary: Machine learning is great, until it is explained.
 ---
 
 
@@ -77,7 +77,7 @@ modelStudio::modelStudio(explainer)
 ### Feature Importance
 
 ```{r}
-knitr::include_graphics("feature importance.png")
+knitr::include_graphics("importance.png")
 ```
 
 The feature importance plot is a global representation.
