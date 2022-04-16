@@ -6,15 +6,20 @@ slug: []
 categories:
   - R programming
 tags:
-  - Scientific Writing
+  - R programming
 summary: Create an EDA report in one line of code
 ---
 
 ```{r setup}
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+
+```{r}
 library(DataExplorer)
 library(tidyverse)
 ```
+
 
 ```{r}
 gss_cat

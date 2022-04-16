@@ -1,0 +1,155 @@
+---
+title: Explainable AI Visualizations
+author: Xiaochi Liu
+date: '2022-04-16'
+slug: []
+categories:
+  - R programming
+tags:
+  - R programming
+summary: Machine learning is great, until you have to explain it.
+---
+
+
+```{r setup}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+
+```{r}
+library(modelStudio)
+library(DALEX)
+library(tidyverse)
+library(tidymodels)
+```
+
+
+
+```{r}
+data_tbl <- mpg %>%
+    select(hwy, manufacturer:drv, fl, class)
+data_tbl
+```
+
+How Highway Fuel Economy (miles per gallon, `hwy`) can be estimated based on the remaining 9 columns?
+
+## Make a Predictive Model
+
+The best way to understand what affects `hwy` is to build a predictive model (and then explain it).
+
+```{r}
+boost_tree(learn_rate = 0.3) %>%
+  set_mode("regression") %>%
+  set_engine("xgboost") %>%
+  fit(hwy ~ ., data = data_tbl) -> fit_xgboost
+
+fit_xgboost
+```
+
+
+## Make an Explainer
+
+With a predictive model in hand, we are ready to create an explainer.
+
+```{r}
+DALEX::explain(
+  model = fit_xgboost,
+  data  = data_tbl,
+  y     = data_tbl$hwy,
+  label = "XGBoost"
+) -> explainer
+explainer
+```
+
+## Run modelStudio
+
+The last step is to run `modelStudio`.
+This opens up the `modelStudio` app - an interactive tool for exploring predictive models.
+
+```{r eval=FALSE, include=FALSE}
+modelStudio::modelStudio(explainer)
+```
+
+### Feature Importance
+
+```{r}
+knitr::include_graphics("feature importance.png")
+```
+
+The feature importance plot is a global representation.
+This means that it looks all of your observations and tells you which features (columns that help you predict) have in-general the most predictive value for your model.
+
+1. `displ` - The Engine Displacement (Volume) has the most predictive value in general for this dataset.
+It’s an important feature.
+In fact, it’s 5X more important than the `model` feature.
+And 100X more important than `cyl`.
+So I should DEFINITELY investigate it more.
+
+
+2. `drv` is the second most important feature.
+Definitely want to review the Drive Train too.
+
+3. Other features - The Feature importance plot shows the the other features have some importance, but the 80/20 rule tells me to focus on `displ` and `drv`.
+
+
+### Break Down Plot
+
+```{r}
+knitr::include_graphics("break down.png")
+```
+
+The Breakdown plot is a local representation that explains one specific observation.
+The plot then shows a intercept (starting value) and the positive or negative contribution that each feature has to developing the prediction.
+
+1. For Observation ID 38, that has an actual `hwy` of 24 Miles Per Gallon (MPG)
+
+2. The starting point (intercept) for all observations is 23.281 MPG.
+
+3. The `displ = 2.4` which boosts the model’s prediction by +3.165 MPG.
+
+4. The `drv = 'f'` which increases the model’s prediction another +1.398 MPG.
+
+5. The `manufacturer = 'dodge'` which decreases the MPG prediction by -1.973
+
+6. And we keep going until we reach the prediction.
+Notice that the first features tend to be the most important because they move the prediction the most.
+
+
+### Shapley Values
+
+```{r}
+knitr::include_graphics("shapley values.png")
+```
+
+Shapley values are a local representation of the feature importance.
+Instead of being global, the shapley values will change by observation telling you again the contribution.
+
+The shapley values are related closely to the Breakdown plot, however you may seem slight differences in the feature contributions.
+The order of the shapley plot is always in the most important magnitude contribution.
+We also get positive and negative indicating if the feature decreases or increases the prediction.
+
+
+
+1. The centerline is again the intercept (23.28 MPG)
+
+2. The `displ` feature is the most important for the observation (ID = 38). The `displ` increases the prediction by 2.715 MPG.
+
+3. We can keep going for the rest of the features.
+
+
+### Partial Dependence Plot
+
+```{r}
+knitr::include_graphics("partial dependence.png")
+```
+
+The partial dependence plot helps us examine one feature at a time.
+Above we are only looking at `displ`.
+The partial dependence is a global representation, meaning it will not change by observation, but rather helps us see how the model predicts over a range of values for the feature being examined.
+
+We are investigating only `displ`.
+As values go from low (smaller engines are 1.6 liter) to high (larger engines are 7 liter), the average prediction for highway fuel becomes lower going from 30-ish Highway MPG to under 20 Highway MPG.

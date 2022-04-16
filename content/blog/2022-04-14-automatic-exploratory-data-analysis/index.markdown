@@ -6,45 +6,22 @@ slug: []
 categories:
   - R programming
 tags:
-  - Scientific Writing
+  - R programming
 summary: Create an EDA report in one line of code
 ---
 
 
 ```r
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+
+
+```r
 library(DataExplorer)
 library(tidyverse)
 ```
 
-```
-## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
-```
-
-```
-## ✓ ggplot2 3.3.5          ✓ purrr   0.3.4     
-## ✓ tibble  3.1.6          ✓ dplyr   1.0.8     
-## ✓ tidyr   1.2.0          ✓ stringr 1.4.0.9000
-## ✓ readr   2.1.2          ✓ forcats 0.5.1
-```
-
-```
-## Warning: package 'tidyr' was built under R version 4.0.5
-```
-
-```
-## Warning: package 'readr' was built under R version 4.0.5
-```
-
-```
-## Warning: package 'dplyr' was built under R version 4.0.5
-```
-
-```
-## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-## x dplyr::filter() masks stats::filter()
-## x dplyr::lag()    masks stats::lag()
-```
 
 
 ```r
@@ -94,7 +71,7 @@ gss_cat %>% introduce()
 gss_cat %>% plot_intro()
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-5-1.png" width="672" />
 
 ## Missing Values
 
@@ -103,7 +80,7 @@ gss_cat %>% plot_intro()
 gss_cat %>% plot_missing()
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-5-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-6-1.png" width="672" />
 
 
 ```r
@@ -132,14 +109,14 @@ gss_cat %>% profile_missing()
 gss_cat %>% plot_density()
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-7-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-8-1.png" width="672" />
 
 
 ```r
 gss_cat %>% plot_histogram()
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-8-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-9-1.png" width="672" />
 
 ## Categorical Features
 
@@ -148,7 +125,7 @@ gss_cat %>% plot_histogram()
 gss_cat %>% plot_bar()
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-9-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-10-1.png" width="672" />
 
 ## Relationships
 
@@ -157,5 +134,5 @@ gss_cat %>% plot_bar()
 gss_cat %>% plot_correlation(maxcat = 15)
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-10-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-11-1.png" width="672" />
 
