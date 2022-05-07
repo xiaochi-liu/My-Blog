@@ -133,13 +133,13 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
+    name = "Publication"
+    title = "Publication"
     url = "/publication/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
+    name = "Talk"
+    title = "Talk"
     url = "/talk/"
     weight = 4
   # [[menu.header]]

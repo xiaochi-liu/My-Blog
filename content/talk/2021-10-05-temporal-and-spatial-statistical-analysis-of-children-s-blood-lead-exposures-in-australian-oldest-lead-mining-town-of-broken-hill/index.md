@@ -2,12 +2,12 @@
 title: Temporal and spatial statistical analysis of children’s blood lead exposures in Australian oldest lead mining town of Broken Hill
 author: Xiaochi Liu
 
-event: American Geophysical Union, Fall Meeting 2019
+event: American Geophysical Union (AGU) Annual Meeting
 # event_url: https://blog.rstudio.com/2020/11/30/diversity-scholarships/
 
 location: San Francisco, CA, USA
 
-summary: This was the first time for me to go to USA and deliver an oral presentation about my research in such a global influential conference.
+summary: Oral presentation
 
 date: "2019-12-12T09:00:00Z"
 date_end: "2019-12-12T10:00:00Z"

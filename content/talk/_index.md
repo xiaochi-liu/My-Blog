@@ -1,7 +1,7 @@
 ---
-title: Conferences & Talks & Works
+title: Recent Talks
 author: Xiaochi Liu
-show_author_byline: false
+show_author_byline: FALSE
 
 # description: |
 #   This is a list for your talks, workshops, or other events with a time, date, and place.
