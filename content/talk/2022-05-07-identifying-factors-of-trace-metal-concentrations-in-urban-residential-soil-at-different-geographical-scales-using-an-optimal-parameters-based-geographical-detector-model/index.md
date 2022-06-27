@@ -20,7 +20,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/3034
+  url: https://www.dropbox.com/s/l5jzj0h3i6oerme/AAG%20presentation.pdf?dl=0
 ---
 
 ## Abstract
