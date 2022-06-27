@@ -1,6 +1,6 @@
 ---
 type: talk
-title: Recent Publications
+title: Selected Publications
 
 author: Xiaochi Liu
 show_author_byline: false

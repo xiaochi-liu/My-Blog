@@ -24,6 +24,8 @@ links:
 # location: Beijing, China
 ---
 
+![Graphic Abstract](graphic.png)
+
 ## Abstract
 
 Here we detail the soil to vegetable transfer factor (uptake) data and calculation procedures for vegetable trace metal uptake estimation that are presented in Taylor et al. (2021).

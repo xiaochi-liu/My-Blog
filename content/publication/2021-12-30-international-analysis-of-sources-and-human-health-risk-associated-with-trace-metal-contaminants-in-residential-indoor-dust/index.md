@@ -17,6 +17,9 @@ links:
   url: https://pubs.acs.org/doi/10.1021/acs.est.1c04494
 ---
 
+![Graphic Abstract](graphic.jpeg)
+
+
 ## Abstract
 
 People spend increasing amounts of time at home, yet the indoor home environment remains understudied in terms of potential exposure to toxic trace metals.

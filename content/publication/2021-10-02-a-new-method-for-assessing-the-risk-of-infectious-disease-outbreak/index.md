@@ -29,6 +29,8 @@ links:
 # location: Beijing, China
 ---
 
+![Graphic Abstract](graphic.png)
+
 ## Abstract
 
 Over the past few years, emergent threats posed by infectious diseases and bioterrorism have become public health concerns that have increased the need for prompt disease outbreak warnings. In most of the existing disease surveillance systems, disease outbreak risk is assessed by the detection of disease outbreaks. However, this is a retrospective approach that impacts the timeliness of the warning. Some disease surveillance systems can predict the probabilities of infectious disease outbreaks in advance by determining the relationship between a disease outbreak and the risk factors. However, this process depends on the availability of risk factor data. In this article, we propose a Bayesian belief network (BBN) method to assess disease outbreak risks at different spatial scales based on cases or virus detection rates. Our experimental results show that this method is more accurate than traditional methods and can make uncertainty estimates, even when some data are unavailable.
