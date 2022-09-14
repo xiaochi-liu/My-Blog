@@ -14,7 +14,8 @@ action_type: text   # text, button
 
 image_left: false
 images:
-  - img/homepage.jpeg
+  - img/Xiaochi_quokka.jpeg
+  # - img/Xiaochi_zoom.jpeg
 
 text_align_left: true
 type: home

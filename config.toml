@@ -40,6 +40,7 @@ enableEmoji = true
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
   socialInFooter = true
+  
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/Xiaochi Liu.jpeg"
@@ -49,7 +50,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "water"
+  theme = "poppy"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
