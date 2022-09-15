@@ -32,7 +32,7 @@ enableEmoji = true
   orgName = "Macquarie University"
   orgLocal = "Sydney, Australia"
   description = "Xiaochi Liu's blog"
-  favicon = "/img/favicon.jpeg"
+  favicon = "/img/favicon_1.jpeg"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "publication", "talk"]
   navallcaps = true
@@ -43,9 +43,9 @@ enableEmoji = true
   
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/Xiaochi Liu.jpeg"
+  sharing_image = "/img/Xiaochi_quokka.jpeg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "XiaochiLiu"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
