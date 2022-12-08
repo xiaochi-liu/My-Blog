@@ -1,0 +1,272 @@
+---
+title: Abstract
+author: Xiaochi Liu
+date: '2022-07-07'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - Scientific Writing
+summary: How to draft Abstract
+---
+
+
+## Purpose
+
+To provide an overview of the paper
+
+* Main story + a few essential details
+
+Provide enough information so a reader can decide whether to continue reading
+
+Should make sense when read alone and with the paper
+
+What motivates you to read an abstract? Why are they important?
+
+* They are the first thing people read in a paper or at a conference
+
+* They are used in searchable databases
+
+* The abstract should grab attention and create a desire to read on
+
+* They determine readership
+
+
+## Structure
+
+* A single paragraph or Structured with subheadings
+
+* Containing 4 to **10** full sentences (around 200 words)
+
+* Explicitly and very succinctly summarise the **purpose**, **findings** and **value** of the paper.
+
+
+Content of an Abstract
+
+An abstract should answer these "What" questions:
+
+1. What was your problem/question?
+
+2. What did you do?
+
+3. What did you learn?
+
+```{r}
+knitr::include_graphics("content of abstract.png")
+```
+
+
+
+
+
+
+
+
+
+
+
+## Organisation
+
+Organisation varies based on the type of paper:
+
+1. Hypothesis-testing paper
+
+    a. background information
+    
+    b. states the question
+    
+    c. the experiments that answered the question
+    
+    d. the results that were found that answer that question
+    
+    e. the answer to the question
+    
+    f. implication of the answer
+    
+    g. speculation/recommendation based on answer
+    
+
+2. Descriptive paper
+
+    a. background information
+    
+    b. the message of the paper
+    
+    c. the results that support the message (methods are included)
+    
+    d. implication of the message 
+
+3. Methods paper
+
+    a. the name/category term of the method, apparatus or material
+    
+    b. the purpose
+    
+    c. (the animal, population, sample)
+    
+    d. The key features of the apparatus/material or how the method/apparatus works or both
+    
+    e. The advantages
+    
+    f. How the method/apparatus/material was tested and how well it works
+
+
+
+
+
+## Drafting Considerations
+
+Why is it important?
+
+What is the gap in knowledge?
+
+What is the specific research question you are asking?
+
+What did you do to find these results?
+
+What is the key result that supports your main message?
+
+What is the main take away message you want the audience to learn?
+
+
+
+
+## Revision Considerations
+
+The abstract must be extremely well written.
+
+Each sentence must contribute content about the paper, and the connections between sentences must be crystal clear.
+
+The point of the research should be clear to a non-specialist in your field.
+
+The abstract gives an overview of the main story: it should be clear both to readers who read the entire paper and to readers who do not read the entire paper.
+
+
+
+
+
+
+## Writing Conventions
+
+Use your key terms early; repeat key terms exactly (especially for the variables)
+
+Use short sentences, especially if there are long technical names
+
+Make the research question/purpose clear & specific
+
+Match the answer to the question (same key terms, same verb, same point of view)
+
+Length: adhere to restrictions (usually word limits)
+
+* If shorter than word limit, do not fill with unnecessary information/words
+
+
+```{r}
+knitr::include_graphics("writing convention.png")
+```
+
+
+
+
+
+## What not to do
+
+Don't:
+
+* Omit the question/purpose
+
+* Provide a vague purpose
+
+    > Plasma cholesterol metabolism was studied.
+
+Include finer details (except for significant results)
+
+
+
+```{r}
+knitr::include_graphics("how much detail.png")
+```
+
+
+
+Include empty/generic sentences
+
+* Remove “dead weight words and phrases”
+
+    > As it is well known
+    
+    > It has been shown that
+    
+    > It should be emphasized that
+
+* Remove long words and phrases
+
+    > muscular and cardiorespiratory performance = fitness
+
+* Remove repetitive words / phrases
+
+    > Successful solutions
+    
+    > Combined together
+    
+    > Absolutely necessary
+    
+    > Manually by hand
+    
+* Long words / phrases that can be shortened
+
+    > A number of -> Many
+    
+    > The majority of -> Most
+    
+    > Less frequently occurring -> Rare
+    
+    > Give rise to -> Cause
+    
+    > Have an effect on -> Affect
+    
+    > Are known to be -> Are
+    
+    > Has been suggested to -> May
+    
+
+Write it first and fail to return to it
+
+Use abbreviations and “jargon” (language that will cause unnecessary confusion)
+
+Make it excessively long
+
+
+
+
+## Reducing the abstract
+
+To reduce the word number of your abstract, you can combine or even omit some stages:
+
+* Omit the Background stage
+
+* Combine the Purpose and Method stages
+
+* Omit Implications
+
+
+Remember to emphasise your Results.
+
+
+## Abstract Checklist
+
+Is the aim of the project obvious?
+
+Methodology briefly described?
+
+Most important results summarised?
+
+Is there a main conclusion?
+
+How long is each section? Are they in appropriate proportion?
+
+Is there any important information missing?
+
+Can any information be removed?
+
+Can the abstract be understood by someone without background knowledge?

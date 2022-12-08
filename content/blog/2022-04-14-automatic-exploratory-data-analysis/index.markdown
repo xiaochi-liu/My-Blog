@@ -1,7 +1,7 @@
 ---
 title: Automatic Exploratory Data Analysis
 author: Xiaochi Liu
-date: '2022-04-14'
+date: '2022-11-07'
 slug: []
 categories:
   - R programming
@@ -59,11 +59,11 @@ gss_cat %>% introduce()
 
 ```
 ## # A tibble: 1 × 9
-##    rows columns discrete_columns continuous_columns all_missing_columns
-##   <int>   <int>            <int>              <int>               <int>
-## 1 21483       9                6                  3                   0
-## # … with 4 more variables: total_missing_values <int>, complete_rows <int>,
-## #   total_observations <int>, memory_usage <dbl>
+##    rows columns discrete_columns conti…¹ all_m…² total…³ compl…⁴ total…⁵ memor…⁶
+##   <int>   <int>            <int>   <int>   <int>   <int>   <int>   <int>   <dbl>
+## 1 21483       9                6       3       0   10222   11299  193347  784776
+## # … with abbreviated variable names ¹​continuous_columns, ²​all_missing_columns,
+## #   ³​total_missing_values, ⁴​complete_rows, ⁵​total_observations, ⁶​memory_usage
 ```
 
 

@@ -1,6 +1,6 @@
 ---
 title: Write Write Write
-date: '2021-09-11'
+date: '2022-08-07'
 author: Xiaochi Liu
 slug: []
 categories:
@@ -53,30 +53,56 @@ Decide the authorship
 
 Review the literature
 
-Outline or create bullet points
+* Outline or create bullet points
 
-Organise from general --> specific
+* Organise from general --> specific
 
-Start writing:
+* Start writing: Don't wait, just write!
 
-* Don't wait, just write!
 
-* **Snack writing**: write little and often
-
-* Take the writing process one step at a time
-    1. Separate into sections
+Take the writing process one step at a time
     
-    2. Leave blanks for parts you are unsure about
+1. Separate into sections
     
-    3. Keep thinking of the overall purpose of the paper and its answer
+2. Leave blanks for parts you are unsure about
     
-    4. Keep the momentum going: your first draft is not written in stone it WILL change!
+3. Keep thinking of the overall purpose of the paper and its answer
     
-    5. Keep track of your references
+
+Keep the momentum going
+
+* Your first draft is not written in stone it WILL change!
+
+  > The only kind of writing is rewriting.
+
+
+```r
+knitr::include_graphics("rewriting.png")
+```
+
+<img src="rewriting.png" width="704" />
+    
+
+
+Keep track of your references
+
 
 Get into the writing habit through regular writing
 
 * Establish a writing routine: make a schedule and stick to it
+
+* Making time to write rather than waiting to "find" time
+
+* **Snack writing**: write little and often
+
+* We will never feel ready to write. Don’t wait just start!
+
+  > Serious writers write, inspired or not. Over time they discover that routine is a better friend to them than inspiration.
+
+
+
+
+
 
 Having trouble putting your thoughts into sentences?
 
@@ -86,8 +112,8 @@ Having trouble putting your thoughts into sentences?
 
 * Write simply
 
-* Use sample sentence fragments
+* Use [sample sentence fragments](https://www.phrasebank.manchester.ac.uk/)
 
-* [Write one step at a time](https://www.phrasebank.manchester.ac.uk/)
+* Write one step at a time
 
 * Set deadlines

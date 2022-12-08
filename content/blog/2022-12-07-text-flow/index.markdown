@@ -1,0 +1,154 @@
+---
+title: Text Flow
+author: Xiaochi Liu
+date: '2022-10-07'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - Scientific Writing
+summary: How to improve flow of text
+---
+
+Ideas to Improve the flow of text:
+
+* Informative topic sentences, with ‘predictable’ supporting sentences
+
+* Continuity Devices
+
+* Subject & verb placement
+
+* Old (or given) information before new information
+
+* Transition words and phrases
+
+
+## Topic Sentences
+
+An overview of the paragraph
+
+Central topic or message
+
+Guides the reader into the paragraph
+
+* One message per paragraph
+    
+* Leads into the development of the message (i.e., examples, definitions, justifications, contradictions, the analysis and solving of a problem)
+    
+
+
+## Continuity Devices
+
+Repeat key terms (especially in Methods and Results)
+
+* Links ideas unmistakably
+    
+* Varying key terms is confusing
+
+Keep a consistent order
+
+* If you list 2 or more items in the topic sentence, describe/explain them in the same order.
+
+* Fulfils reader’s expectation
+
+* Mention all items
+
+* Avoid interrupting the order of your items by adding extra information
+
+
+
+Keep a consistent point of view
+
+* Topic should be the subject of the sentence
+
+* Sentences with same topic -> same subject
+
+    * Easier to see a contrast
+    
+    * Ensures supporting sentences relate clearly to topic sentence
+    
+    > **Propranolol** had variable effects on the hypoxemia induced changes in regional blood flow. In the cerebrum, the increase in blood flow caused by hypoxemia was not significantly altered by **propranolol**.
+    
+    > **Propranolol** had variable effects on the hypoxemia induced changes in regional blood flow. In the cerebrum, **propranolol** did not significantly alter the increase in blood flow caused by hypoxemia.
+
+
+Keep ideas in parallel form
+
+* verb object completer
+
+  > We **washed** out the lungs five times with Solution I, **instilled** 8-10 ml of the the flurocarbon-albumin emulsion into the trachea, and **incubated** the lungs in 154 mM NaCl at 37°C for 20 min.
+
+
+Use _**this**_ plus _**summary word**_ ("category term")
+
+* An unsupported _this_ can cause confusion. If this is a possibility, use a clear summary noun to name the referent.
+
+* Inserting a summary word after this not only creates cohesion, but can be used to indicate how to interpret the previous statement.
+
+
+
+## Subject & Verb Placement
+
+Try to include the verb and its subject in the first 7-9 words of a sentence
+
+* Avoid ‘top heavy’ sentence
+
+* Write lists at the end of the sentence
+
+
+## Old (or given) information before new information
+
+Old information = any information that the reader already knows
+
+Place old information towards beginning of sentences
+
+New information placed towards the end
+
+Information at the beginning of each sentence relates to the information:
+
+* at the end of the sentences directly preceding them
+    
+* the subject of the topic sentence or subtopic sentence
+
+
+
+## Transition words and phrases
+
+Ensure reader understands the sentence
+
+Indicate how sentences and paragraphs are logically
+related
+
+Without a transition most guess “in addition”
+
+* shouldn't let the reader guess
+
+* guess may be incorrect and change the logic
+
+Create a logical connection between sentences
+
+Don’t use a transition or transition phrase in every sentence
+
+* The connection is often apparent between sentences
+
+Transition **phrases (or sentences)** provide stronger links between sentences than transition **words**
+
+
+
+```r
+knitr::include_graphics("transition.png")
+```
+
+<img src="transition.png" width="554" />
+
+
+
+
+
+## Checking
+
+Chain of topic sentences throughout the paper?
+
+* Should provide a rough outline of the paper
+
+* Add any necessary transitions

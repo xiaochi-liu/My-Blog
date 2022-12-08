@@ -1,7 +1,7 @@
 ---
 title: Explainable AI Visualizations
 author: Xiaochi Liu
-date: '2022-04-16'
+date: '2022-12-07'
 slug: []
 categories:
   - R programming
@@ -74,16 +74,15 @@ fit_xgboost
 ```
 ## parsnip model object
 ## 
-## Fit time:  34ms 
 ## ##### xgb.Booster
-## raw: 33.8 Kb 
+## raw: 30.1 Kb 
 ## call:
 ##   xgboost::xgb.train(params = list(eta = 0.3, max_depth = 6, gamma = 0, 
 ##     colsample_bytree = 1, colsample_bynode = 1, min_child_weight = 1, 
-##     subsample = 1, objective = "reg:squarederror"), data = x$data, 
-##     nrounds = 15, watchlist = x$watchlist, verbose = 0, nthread = 1)
+##     subsample = 1), data = x$data, nrounds = 15, watchlist = x$watchlist, 
+##     verbose = 0, nthread = 1, objective = "reg:squarederror")
 ## params (as set within xgb.train):
-##   eta = "0.3", max_depth = "6", gamma = "0", colsample_bytree = "1", colsample_bynode = "1", min_child_weight = "1", subsample = "1", objective = "reg:squarederror", nthread = "1", validate_parameters = "TRUE"
+##   eta = "0.3", max_depth = "6", gamma = "0", colsample_bytree = "1", colsample_bynode = "1", min_child_weight = "1", subsample = "1", nthread = "1", objective = "reg:squarederror", validate_parameters = "TRUE"
 ## xgb.attributes:
 ##   niter
 ## callbacks:
@@ -93,8 +92,8 @@ fit_xgboost
 ## nfeatures : 81 
 ## evaluation_log:
 ##     iter training_rmse
-##        1     16.854715
-##        2     12.037525
+##        1     16.854722
+##        2     12.037528
 ## ---                   
 ##       14      0.744647
 ##       15      0.678804
@@ -121,13 +120,13 @@ DALEX::explain(
 ##   -> data              :  234  rows  10  cols 
 ##   -> data              :  tibble converted into a data.frame 
 ##   -> target variable   :  234  values 
-##   -> predict function  :  yhat.model_fit  will be used ( [33m default [39m )
-##   -> predicted values  :  No value for predict function target column. ( [33m default [39m )
-##   -> model_info        :  package parsnip , ver. 0.1.7 , task regression ( [33m default [39m ) 
+##   -> predict function  :  yhat.model_fit  will be used (  default  )
+##   -> predicted values  :  No value for predict function target column. (  default  )
+##   -> model_info        :  package parsnip , ver. 1.0.2.9000 , task regression (  default  ) 
 ##   -> predicted values  :  numerical, min =  11.74135 , mean =  23.28085 , max =  42.29173  
-##   -> residual function :  difference between y and yhat ( [33m default [39m )
+##   -> residual function :  difference between y and yhat (  default  )
 ##   -> residuals         :  numerical, min =  -1.251106 , mean =  0.1593225 , max =  2.348537  
-##  [32m A new explainer has been created! [39m
+##   A new explainer has been created!
 ```
 
 ```r

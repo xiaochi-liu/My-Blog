@@ -1,0 +1,159 @@
+---
+title: Title
+author: Xiaochi Liu
+date: '2022-07-17'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - Scientific Writing
+summary: How to draft Title
+---
+
+
+The face of the paper
+
+* The descriptor
+
+* The advertisement
+
+* The pitch
+
+Need to make it count!
+
+> Whether your article will be read by many people, few people, or virtually none at all ... can be largely a function of the title and the abstract.
+
+
+Types of title
+
+1. Noun Phrase: string of nouns & adjectives (not a sentence)
+
+    > Diversity and invasibility of southern Appalachian plant communities
+
+    > Food expenditure patterns in urban and rural Indonesia
+
+    > Systems of weed control in peanuts
+
+    > Short- and long-term effects of disturbance and propagule pressure on a biological invasion
+
+2. A sentence
+
+3. A question
+
+
+
+
+
+
+
+## Strategies for effective titles
+
+Provide as much relevant information as possible, but be concise
+
+
+Use keywords prominently
+
+* Place near the beginning
+
+    > Effects of added calcium on salinity tolerance of tomato -> Calcium addition improves salinity tolerance of tomato
+    
+
+* Make use of a colon (:) or a dash (-)
+
+    * Keyword-containing part: explanatory section
+    
+    > Native weeds and exotic plants: relationships to disturbance in mixed-grass prairie
+    
+    > Resistance to infection with intra-cellular parasites – identification of a candidate gene
+    
+
+
+Choose strategically: noun phrase, statement, or question?
+
+* Noun phrases are common but are not always the most informative, and don’t place keywords near the front
+
+    > Evidence of involvement of proteinaceous toxins from Pyrenophora teres in net blotch of barley
+
+* Statement titles only suitable for papers that address a specific question and present a non-complex answer
+
+    > Proteinaceous metabolites from Pyrenophora teres contribute to symptom development of barley net blotch
+
+* When no simple answer – use a question
+
+    > Which insect introductions succeed and which fail?
+
+
+
+You need to check your journal’s conventions or recommendations
+
+* Develop a list of possible titles as you draft your paper
+
+* Choose the most effective one at the end of the writing process
+
+
+Avoid ambiguity in noun phrases
+
+* Restrict noun phrases to a maximum of three words
+
+  > germination conditions
+  
+  > application rate
+  
+  * If longer than three words – insert the prepositions that clarify meaning (of, by, for)
+  
+    > enzymatic activity suppression -> suppression of enzymatic activity
+  
+    > soybean seedling growth suppression -> suppression of soybean seedling growth
+  
+
+Avoid using wasted words
+
+* a study of, investigation of, development of, observations on
+    
+* new, improved, sensitive, novel, validated
+
+
+
+Be informative. Don’t make titles too short
+
+
+Think about what you want to emphasise
+
+> First-Trimester Maternal Pregnancy-Associated Plasma Protein A is Influenced by **Smoking**
+
+> **Smoking** Influences First-Trimester Maternal Pregnancy-Associated Plasma Protein A
+
+
+Use keywords prominently
+
+* Capture interest of reader
+
+* Place near the front of your title
+
+* Same as those used throughout article
+
+
+Follow journal guidelines
+
+* Request that titles are written as phrases, not sentences
+
+    > Reduction in Cholesterol with Statin Treatment
+    
+    > Cholesterol Concentrations Are Lowered with Statin Treatment
+
+
+Avoid abbreviations
+
+
+## Something to try
+
+Type the whole title (in double quotes “ ”) into Google Scholar
+
+Type the three or four most distinctive or memorable title words separately into the search engine
+
+```{r}
+knitr::include_graphics("something to try.png")
+```
+
+
+Ideally you want to include some key words used by other authors but also include other words to make your article distinctive.
