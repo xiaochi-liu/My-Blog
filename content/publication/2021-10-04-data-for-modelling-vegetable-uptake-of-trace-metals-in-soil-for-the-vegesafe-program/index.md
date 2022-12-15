@@ -3,7 +3,7 @@ title: Data for modelling vegetable uptake of trace metals in soil for the VegeS
 author: Cynthia Isley, Xiaochi Liu, Kara Fry, Max Gillings, Mark Taylor
 show_author_byline: true
 
-summary: Published on **_Data in Brief_**
+summary: Published in **_Data in Brief_**
 
 date: "2021-05-15"
 publishdate: "2021-10-04"

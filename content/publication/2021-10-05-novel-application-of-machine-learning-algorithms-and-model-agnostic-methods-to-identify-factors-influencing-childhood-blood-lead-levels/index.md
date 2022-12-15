@@ -3,7 +3,7 @@ title: Novel Application of Machine Learning Algorithms and Model-Agnostic Metho
 author: Xiaochi Liu, Mark Taylor, Marjorie Aelion, Chenyin Dong
 show_author_byline: true
 
-summary: Published on **_Environmental Science & Technology_**
+summary: Published in **_Environmental Science & Technology_**
 
 date: "2021-09-21"
 all_day: true

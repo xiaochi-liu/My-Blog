@@ -3,7 +3,7 @@ title: International Analysis of Sources and Human Health Risk Associated with T
 author: Isley, C. F., Fry, K. L., Liu, X., Filippelli, G. M., Entwistle, J. A., Martin, A. P., Kah, M., Figueroa, D. M., Shuckle, J., Jabeen, K., Famuyiwa, M. A., Wu, L., Sharifi, N., Doyi, I. N. Y., Argyraki, A., Ho, K. F., Dong, C., Gunkel-Grillon, P., Aelion, C. M., & Taylor, M. P.
 show_author_byline: true
 
-summary: Published on **_Environmental Science & Technology_**
+summary: Published in **_Environmental Science & Technology_**
 
 date: "2021-12-23"
 all_day: true

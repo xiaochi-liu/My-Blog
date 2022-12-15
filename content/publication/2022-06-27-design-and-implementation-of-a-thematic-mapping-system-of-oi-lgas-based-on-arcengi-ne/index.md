@@ -6,7 +6,7 @@ draft: false
 author: Xiaochi Liu, Tingyan Xing
 show_author_byline: true
 
-summary: Published on **_Acta Geodaetica et Cartographica Sinica_**
+summary: Published in **_Acta Geodaetica et Cartographica Sinica_**
 
 date: "2015-12-07"
 date_end: "2015-12-07"

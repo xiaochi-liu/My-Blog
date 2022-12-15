@@ -6,7 +6,7 @@ draft: false
 author: Yilan Liao, Bing Xu, Jinfeng Wang, Xiaochi Liu
 show_author_byline: true
 
-summary: Published on **_Scientific Reports_**
+summary: Published in **_Scientific Reports_**
 
 date: "2017-01-09"
 date_end: "2017-01-09"

@@ -6,7 +6,7 @@ draft: false
 author: Yilan Liao, Bing Xu, Xiaochi Liu, Jinfeng Wang, Shixiong Hu, Wei Huang, Kaiwei Luo, Lidong Go 
 show_author_byline: true
 
-summary: Published on **_Stochastic Environmental Research and Risk Assessment_**
+summary: Published in **_Stochastic Environmental Research and Risk Assessment_**
 
 
 

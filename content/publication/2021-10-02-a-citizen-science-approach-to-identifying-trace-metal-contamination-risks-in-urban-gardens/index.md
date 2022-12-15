@@ -6,7 +6,7 @@ draft: false
 author: Mark Taylor, Cynthia Isley, Kara Fry, Xiaochi Liu, Max Gillings, Marek Rouillon, Neda Soltani, Damian Gore, Gabriel Filippelli
 show_author_byline: true
 
-summary: Published on **_Environment International_**
+summary: Published in **_Environment International_**
 
 
 

@@ -6,7 +6,7 @@ draft: false
 author: Yilan, Liao; Jinfeng Wang; Lidong Gao; Bing Xu; Shixiong Hu; Xiaochi Liu; Zhaochen Yang
 show_author_byline: true
 
-summary: Published on **_Acta Geodaetica et Cartographica Sinica_**
+summary: Published in **_Acta Geodaetica et Cartographica Sinica_**
 
 date: "2015-02-04"
 date_end: "2015-02-04"
