@@ -29,10 +29,10 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Macquarie University"
-  orgLocal = "Sydney, Australia"
+  orgName = "Environment Protection Authority (EPA) Victoria"
+  orgLocal = "Melbourne"
   description = "Xiaochi Liu's blog"
-  favicon = "/img/favicon_1.jpeg"
+  favicon = "/img/favicon_3.png"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "publication", "talk"]
   navallcaps = true
@@ -43,7 +43,7 @@ enableEmoji = true
   
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/Xiaochi_quokka.jpeg"
+  sharing_image = "/img/favicon_3.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "XiaochiLiu"
   
