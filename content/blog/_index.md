@@ -4,7 +4,7 @@ description: Notes for R & Python Programming and Scientific Writing
 author: 
 
 show_author_byline: true
-show_post_date: true
+show_post_date: false
 show_post_thumbnail: true
 thumbnail_left: true
 
@@ -25,7 +25,7 @@ cascade:
   author: Xiaochi Liu
   show_author_byline: true
   show_comments: true
-  show_post_date: true
+  show_post_date: false
   layout: single-series # single or single-sidebar
   sidebar_left: false
   sidebar:
