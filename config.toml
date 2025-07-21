@@ -124,22 +124,22 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = "Main"
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
+    name = "Blogs"
     title = "Blog"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Publication"
+    name = "Publications"
     title = "Publication"
     url = "/publication/"
     weight = 3
   [[menu.header]]
-    name = "Talk"
+    name = "Talks"
     title = "Talk"
     url = "/talk/"
     weight = 4
